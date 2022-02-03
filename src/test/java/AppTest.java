@@ -6,7 +6,7 @@ public class AppTest {
 
     @Test
     public void testApp() {
-        App myApp = new App();
+        App myApp = new Appreiuvhuirefvh();
 
         String result = myApp.getStatus();
 
